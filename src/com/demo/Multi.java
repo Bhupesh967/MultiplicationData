@@ -17,6 +17,9 @@ public class Multi {
 		int f=40;
 		System.out.println("Multiplication+"+(e*f));
 		
-		
+		//added from gitHub by Ajit
+				int g=30;
+				int h=40;
+				System.out.println("Multiplication+"+(g*h));
 	}
 }
