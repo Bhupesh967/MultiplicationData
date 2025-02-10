@@ -21,5 +21,13 @@ public class Multi {
 				int g=30;
 				int h=40;
 				System.out.println("Multiplication+"+(g*h));
+				
+				//added from local by ajit for conflict example
+				//Becouse sujit have added some code 
+				//but we have to pulled those changes in our  eclips
+				//And we are trying push some  changes in github
+				int i=30;
+				int j=40;
+				System.out.println("Multiplication+"+(i*j));
 	}
 }
