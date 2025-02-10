@@ -22,6 +22,7 @@ public class Multi {
 				int h=40;
 				System.out.println("Multiplication+"+(g*h));
 
+
 				//added from local by ajit for conflict example
 				//Becouse sujit have added some code 
 				//but we have to pulled those changes in our  eclips
@@ -32,9 +33,12 @@ public class Multi {
 
 
 		//added from gitHub by Sujit - This is conflict example
-		int e=30;
-		int f=40;
-		System.out.println("Multiplication+"+(e*f));
+
+		
+		int l=30;
+		int m=40;
+		System.out.println("Multiplication+"+(l*m));
+
 
 	}
 }
