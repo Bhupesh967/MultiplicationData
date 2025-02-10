@@ -33,9 +33,9 @@ public class Multi {
 =======
 
 		//added from gitHub by Sujit - This is conflict example
-		int e=30;
-		int f=40;
-		System.out.println("Multiplication+"+(e*f));
+		int l=30;
+		int m=40;
+		System.out.println("Multiplication+"+(l*m));
 >>>>>>> 90eccb7c66e71941e68495b7b4fb78beb6415339
 	}
 }
